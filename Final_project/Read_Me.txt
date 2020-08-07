@@ -1,5 +1,4 @@
-****************************************************[Final project(Expense-Manager solution)]*****************************
-
+****************************************************[Final project(Expense-Manager solution)]**************************************************
 DESCRIPTION: This is the solution to the Expense-Manager web application. 
 
 Extract the files from Final_project.zip.
