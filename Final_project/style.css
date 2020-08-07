@@ -1,0 +1,20 @@
+#banner_image{
+padding-top:75px;
+padding-bottom:50px;
+text-align: center;
+color: #f8f8f8;
+background: url(pic/exp4.jpg) no-repeat center;
+background-size: cover;
+min-height: 700px;
+}
+#banner_content{
+position: relative;
+padding-top: 6%;
+padding-bottom: 6%;
+margin-top: 12%;
+margin-bottom: 12%;
+background-color: rgba(0, 0, 0, 0.7);
+max-width: 700px;
+
+}
+
