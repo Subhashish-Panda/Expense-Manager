@@ -5,7 +5,8 @@ Further user can add bills under the given budget and track her expenses accordi
 
 # Languages used
 ----------------
-->for Front-End: HTML,CSS,Bootstrap,JS 
+->for Front-End: HTML,CSS,Bootstrap,JS.
+
 ->for Back-end: PHP,Mysql.
 
 # Functionalities
